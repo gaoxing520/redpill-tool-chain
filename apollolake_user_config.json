@@ -7,11 +7,11 @@
     "mac2": "001132AE2B82"
   },
   "synoinfo": {
-    "maxdisks": "24",
+    "maxdisks": "16",
     "maxlanport": "4",
     "usbportcfg": "0x30000",
     "esataportcfg": "0x0",
-    "internalportcfg": "0xffff"
+    "internalportcfg": "0x1ff"
   },
   "ramdisk_copy": {}
 }
